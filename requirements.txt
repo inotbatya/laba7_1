@@ -1,4 +1,4 @@
-plaintext
+pyplaintext
 numpy
 pandas
 matplotlib
