@@ -12,6 +12,6 @@
    pip install -r requirements.txt
    ```
 2. Запуск
-```
-python -m notebook
-```
+   ```bash
+   python -m notebook
+   ```
